@@ -1,3 +1,6 @@
+--DDL for Bronze layer
+
+-- Table for cust_info.csv
 CREATE TABLE bronze.crm_cust_info (
     cst_id INT,
     cst_key VARCHAR(50),
